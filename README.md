@@ -1,4 +1,4 @@
-# Subscription Tracekr
+# Subscription Tracker
 
 **A Full-Stack Subscription Management and Expense Tracking Application**
 
